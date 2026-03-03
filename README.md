@@ -119,4 +119,13 @@
 ---
 *Для полного списка ресурсов посетите оригинальный репозиторий.*
 
+**RUCODER - Разработка сайтов**
+
+- 🌐 Сайт: https://рукодер.рф/
+- 📱 Телеграм: https://t.me/RussCoder
+- 👥 VK: https://vk.com/rucoderweb
+- 📸 Instagram: https://www.instagram.com/rucoder.web/
+- 📧 Email: rucoder.rf@yandex.ru
+
+**По всем вопросам и для заказа разработки сайтов обращайтесь по контактным данным выше.**
 
